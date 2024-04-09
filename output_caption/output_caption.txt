@@ -1,0 +1,1 @@
+Apply BLIP to generate image caption, VQA-entity, and VQA-sentiment for all the images.
