@@ -10,7 +10,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0306457324000840
 2) The datasets we use is from https://github.com/YangXiaocui1215/GMP. These are subset of Twitter-15 and Twitter-17.  
 Save these datasets to the folder ./subset_data
 
-3)The corresponding images can be downloaded via the following link:
+3) The corresponding images can be downloaded via the following link:
 https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view
 
 
