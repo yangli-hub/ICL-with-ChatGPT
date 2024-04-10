@@ -3,7 +3,9 @@
 #### The Corresponding Paper: 
 ##### An empirical study of Multimodal Entity-Based Sentiment Analysis with ChatGPT: Improving in-context learning via entity-aware contrastive learning
 ##### https://www.sciencedirect.com/science/article/abs/pii/S0306457324000840
-[method.pdf](https://github.com/yangli-hub/ICL-with-ChatGPT/files/14926088/method.pdf)
+
+
+![alt text]![method](https://github.com/yangli-hub/ICL-with-ChatGPT/assets/70850281/51aab505-0460-463c-b306-67ce4335c3e9)
 
 ## 1. Data Set
 - The original full set of datasets, namely Twitter-15 and Twitter-17, can be saved to the designated folder "./org_data". 
