@@ -1,8 +1,8 @@
 # ICL with ChatGPT
-#Author: Yang Li
-#The Corresponding Paper: An empirical study of Multimodal Entity-Based Sentiment Analysis with ChatGPT: Improving in-context learning via entity-aware contrastive learning
-
-https://www.sciencedirect.com/science/article/abs/pii/S0306457324000840
+### Author: Yang Li
+#### The Corresponding Paper: 
+##### An empirical study of Multimodal Entity-Based Sentiment Analysis with ChatGPT: Improving in-context learning via entity-aware contrastive learning
+##### https://www.sciencedirect.com/science/article/abs/pii/S0306457324000840
 
 ## 1. Data Set
 1) The orginal datasets are Twitter-15 and Twitter-17. These orginal datasets can be saved to the folder of ./org_data
