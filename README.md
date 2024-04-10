@@ -16,12 +16,12 @@
 https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view
 
 
-## 2. Apply BLIP to generate Image caption, VQA-entity, and VQA-sentiment for all the images.
-- This module delves into the Visual Input Construction Section, leveraging the BLIP model for its operations. It utilizes image captioning to generate descriptions for each image, alongside extracting entity and sentiment information through VQA.
+## 2. Utilize BLIP to generate Image caption, VQA-entity, and VQA-sentiment for all the images.
+- This module delves into the Visual Input Construction Section in the paper, leveraging the BLIP model for its operations. It utilizes image captioning to generate descriptions for each image, alongside extracting entity and sentiment information through VQA.
 
-- The BLIP models  can be explored through the Hugging Face link provided here: https://huggingface.co/collections/Salesforce/blip-models-65242f40f1491fbf6a9e9472
+- BLIP models via the Hugging Face link provided here: https://huggingface.co/collections/Salesforce/blip-models-65242f40f1491fbf6a9e9472.
    
-- The outputs can be saved to folders ./output_vqa and ./output_caption
+- The generated outputs can be conveniently saved to the folders named "./output_vqa" and "./output_caption". 
 
 ## 3. Positive and Negative Instance Construction
 - This module pertains to the section of Positive and Negative Instance Construction within the paper. 
