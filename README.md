@@ -1,5 +1,5 @@
 # ICL with ChatGPT
-#### Author: YANG Li
+#### Author: Li YANG, yang0666@e.ntu.edu.sg
 #### The Corresponding Paper: 
 ##### An empirical study of Multimodal Entity-Based Sentiment Analysis with ChatGPT: Improving in-context learning via entity-aware contrastive learning
 ##### https://www.sciencedirect.com/science/article/abs/pii/S0306457324000840
