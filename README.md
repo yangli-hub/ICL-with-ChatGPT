@@ -46,5 +46,5 @@ https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view
 
 - The output of this module generates N selected samples for each test sample, which will serve as few-shot learning samples in the subsequent step.
 
-# 6. Leveraging the ChatGPT API for Few-Shot Learning
+## 6. Leveraging the ChatGPT API for Few-Shot Learning
 - To initiate the process of few-shot learning utilizing the ChatGPT API, one can refer to the comprehensive guidelines provided in the official documentation on ChatGPT usage by OpenAI. 
