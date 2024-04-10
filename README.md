@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view
 ## 4. Train the SimCSE model
 - This module is designed for the Section Entity-aware Contrastive Learning as described in the paper. Its input comprises the outputs of the preceding step labeled "Generate Positive and Negative Instances," which consist of pairs of positive and negative instances.
   
-- The SimCSE backbone is available for download from the following GitHub repository: https://github.com/princeton-nlp/SimCSE. Instructions detailing the environment setup and steps necessary to train the SimCSE model are provided on the repository's page. We utilize the princeton-nlp/sup-simcse-roberta-large version of the model, although alternative backbone models may also be employed depending on the specific task requirements.
+- The SimCSE backbone is available for download from the following GitHub repository: https://github.com/princeton-nlp/SimCSE. Instructions detailing the environment setup and steps necessary to train the SimCSE model are provided on the repository's page. We utilize the "princeton-nlp/sup-simcse-roberta-large" version of the model, although alternative backbone models may also be employed depending on the specific task requirements.
 
 - It is imperative to save the trained model once the training process is completed.
 
