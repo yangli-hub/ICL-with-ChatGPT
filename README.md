@@ -37,10 +37,10 @@ https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view
 
 - It is imperative to save the trained model once the training process is completed.
 
-## 5. Utilize the trained Contrastive Learning model to generate a selection of top N samples, facilitating the execution of few-shot learning within ChatGPT.
+## 5. Utilize the trained Contrastive Learning model to generate a selection of N similar samples, facilitating the execution of few-shot learning within ChatGPT.
 - This module is specifically designed for the section of Retrieving Similar Samples Using the Entity-aware Contrastive Learning Model outlined in the paper.
    
-- Here, we utilize the trained contrastive learning model from the previous step to compute the word embeddings between test samples and samples in the training set.
+- Here, we utilize the trained contrastive learning model from the previous step to compute the word embeddings between test samples and samples in the training set. Following this computation, top N similar samples are select based on highest cosine similarity. These selected samples serve as demonstrations for the In-context learning process.
    
 - The corresponding code for this module can be found in "prompt_generation.py".
 
